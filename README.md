@@ -1,9 +1,7 @@
 About Me
 
-Hello Users,
+Hello, I’m Charles James “Jem” T. Salac — a freelance Graphic Designer and Web Developer. I enjoy creating, whether it’s designing visuals, writing code, or learning new skills along the way.
 
-I am Charles James "Jem" T. Salac, freelance Graphic Designer, and Web Developer. I really enjoy building this kind of stuff, design here, code there, and learn anywhere.
+I’m currently a 1st-year college student at ICCT Colleges, Cainta Campus, pursuing my goal of becoming a Full-Stack Software Engineer. Alongside web development and design, I also do graphic design, video editing, and create TikTok content related to arts and technology.
 
-I'm 1st year college at ICCT Colleges Cainta Campus and aspiring Fullstack Software Engineer. Also, I do graphic designing, video editing, tiktok videos that are related to arts and technology, and such.
-
-Thank you, Users!
+Thank you for visiting!
