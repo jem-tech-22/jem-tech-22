@@ -1,7 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Akira&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+Friend!+😁;+It's+Jem!+🫡;color=FF5733
-" />
+<<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+Friend!+😁;+It's+Jem!+🫡;&color=FF5733" />
 </h1>
+
 
 # About Me
 Hello, I’m Charles James “Jem” T. Salac — a freelance Graphic Designer and Web Developer. I enjoy creating, whether it’s designing visuals, writing code, or learning new skills along the way. I’m currently a college student at ICCT Colleges, Cainta Campus, pursuing my goal of becoming a Full-Stack Software Engineer. Alongside web development and design, I also do graphic design, video editing, and create TikTok content related to arts and technology.
