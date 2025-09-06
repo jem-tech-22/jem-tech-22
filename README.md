@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+Friend!+😁;+It's+Jem!+🫡;&color=FF5733" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Helvetica&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+Friend!+😁;+It's+Jem!+🫡;&color=FF5733" />
 </h1>
 
 
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
+# 🫣About Me
 Hello, I’m Charles James “Jem” T. Salac — a freelance Graphic Designer and Aspiring Web Developer. I enjoy creating, whether it’s designing visuals, writing code, or learning new skills along the way. I’m currently a college student at ICCT Colleges, Cainta Campus, pursuing my goal of becoming a Full-Stack Software Engineer. Alongside web development and design, I also do graphic design, video editing, and create TikTok content related to arts and technology.
 
-# Tech Stack
+# 🛠Tech Stack
 
 Languages:
 
@@ -18,7 +18,7 @@ Languages:
 <!---![SQL](https://img.shields.io/badge/SQL-%2306B6D4?logo=zaim&logoColor=white)-->
 <!---![KOTLIN](https://img.shields.io/badge/KOTLIN-%237F52FF?logo=kotlin&logoColor=white)-->
 
-Developer Tools:
+Developer Tools: 
 
 ![GITHUB](https://img.shields.io/badge/GITHUB-%23181717?logo=github&logoColor=white)
 
