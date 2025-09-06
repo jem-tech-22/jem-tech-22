@@ -3,7 +3,7 @@
 </h1>
 
 
-##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me
 Hello, I’m Charles James “Jem” T. Salac — a freelance Graphic Designer and Web Developer. I enjoy creating, whether it’s designing visuals, writing code, or learning new skills along the way. I’m currently a college student at ICCT Colleges, Cainta Campus, pursuing my goal of becoming a Full-Stack Software Engineer. Alongside web development and design, I also do graphic design, video editing, and create TikTok content related to arts and technology.
 
 # Tech Stack
