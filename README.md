@@ -3,7 +3,7 @@
 </h1>
 
 
-# 🫣About Me
+# 🫣About Me😁
 Hello, I’m Charles James “Jem” T. Salac — a freelance Graphic Designer and Aspiring Web Developer. I enjoy creating, whether it’s designing visuals, writing code, or learning new skills along the way. I’m currently a college student at ICCT Colleges, Cainta Campus, pursuing my goal of becoming a Full-Stack Software Engineer. Alongside web development, I also do graphic design, video editing, and create tiktok content related to arts and technology.
 
 # 🛠Tech Stack
