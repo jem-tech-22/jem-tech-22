@@ -14,7 +14,7 @@ Languages:
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-black?logo=javascript)
 ![JAVA](https://img.shields.io/badge/JAVA-%23f89820?logo=openjdk&logoColor=white)
-<!---![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white)-->
+![REACT](https://img.shields.io/badge/REACT-%23777BB4?logo=php&logoColor=white)
 <!---![SQL](https://img.shields.io/badge/SQL-%2306B6D4?logo=zaim&logoColor=white)-->
 <!---![KOTLIN](https://img.shields.io/badge/KOTLIN-%237F52FF?logo=kotlin&logoColor=white)-->
 
