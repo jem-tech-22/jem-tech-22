@@ -26,7 +26,7 @@ Developer Tools:
   
   # Github Stats
   ![](https://github-readme-stats.vercel.app/api?username=jem-tech-22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jem-tech-22&theme=tokyonight&exclude_repo=csm-admin-dashboard,chess-pain)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jem-tech-22&layout=compact&theme=tokyonight&exclude_repo=csm-admin-dashboard,chess-pain)
   
    <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carljosephsalac&show_icons=true&locale=en&layout=compact&theme=dark" alt="carljosephsalac" /> -->
 </div>
